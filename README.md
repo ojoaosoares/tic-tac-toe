@@ -31,7 +31,7 @@ This is a classic Tic Tac Toe game implemented in JavaScript. It offers a clean 
 
 # Contact
 
-- [Linkedin](http://www.linkedin.com/in/ojo%C3%A3osoares)
+- [Linkedin](http://www.linkedin.com/in/ojoaovsoares)
 
 # Contributions
 
